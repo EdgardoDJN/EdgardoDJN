@@ -21,7 +21,7 @@
 
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://msng.link/o/?@EdgardoDJN=tg)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@example.com?&subject=&cc=&bcc=&body=https://mail.google.com/mail/u/0/?pli=1#inbox%0A)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/shareArticle?mini=true&url=https://www.linkedin.com/in/edgardo-david-jimenez-06b45018a/)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edgardo-david-jimenez-06b45018a/)
 
 ##### Languages I use
 
