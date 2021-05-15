@@ -46,6 +46,8 @@
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
 [![Tor](https://img.shields.io/badge/-Tor-444444?style=flat&logo=tor&logoColor=7E4798)](https://www.torproject.org/)
 
+
+
 ##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
 <!-- wi*quL3fcV -->
 
@@ -55,6 +57,13 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 
 >>> [ '🐔', '🐣', '🐥', '🥚' ]
 ```
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdgardoDJN)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=EdgardoDJN&show_icons=true&count_private=true)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=EdgardoDJN)  
+
+![Profile views](https://gpvc.arturio.dev/EdgardoDJN)  
 
 ⭐️ From [Edgardo Jimenez](https://github.com/EdgardoDJN)
 
