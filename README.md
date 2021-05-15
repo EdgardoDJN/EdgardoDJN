@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Edgardo Jimenez</h1>
 <h3 align="center">A web and mobile development enthusiast</h3>
-<img align='right' src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="550">
+<img align='right' src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="510">
 
 
 
