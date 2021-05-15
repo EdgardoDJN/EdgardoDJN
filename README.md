@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edgardo Jimenez</h1>
-<h3 align="center">A Web and mobile development enthusiast</h3>
+<h3 align="center">A web and mobile development enthusiast</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
