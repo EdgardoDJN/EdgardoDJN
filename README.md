@@ -26,9 +26,7 @@
 ##### Languages I use
 
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
 
@@ -43,15 +41,7 @@
 
 
 
-##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
-<!-- wi*quL3fcV -->
 
-```javascript
-// Which came first: the chicken or the egg?
-console.log(['🥚', '🐣', '🐥', '🐔'].sort())
-
->>> [ '🐔', '🐣', '🐥', '🥚' ]
-```
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdgardoDJN)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=EdgardoDJN&show_icons=true&count_private=true)  
