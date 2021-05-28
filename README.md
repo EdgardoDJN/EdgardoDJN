@@ -16,7 +16,7 @@
 
 - 🎓Systems Engineering student at the university of Magdalena - Colombia
 - :test_tube: Finishing my third semester of engineering and with great projection for the technology industry
-- :speech_balloon: Ask me about math, web development, C++, Java or literally anything about my career!
+- :speech_balloon: Ask me about math, C++, Java or literally anything about my career!
 - :mailbox: You can reach me with the links below
 
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://msng.link/o/?@EdgardoDJN=tg)
