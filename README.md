@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Edgardo Jimenez</h1>
 <h3 align="center">A mobile development enthusiast</h3>
+
+
+
+
+
+
+
 <img align='right' src="https://camo.githubusercontent.com/28ef03dcdc6f3fdf1b2a4a5ff75bd26e6a03fee49355f2eac49afbf4885e1c38/68747470733a2f2f666c75747465722e67736b696e6e65722e636f6d2f666f6c696f2f6173736574732f696d616765732f6769745f6461736865732e706e673f" width="200">
+
+
 
 
 
