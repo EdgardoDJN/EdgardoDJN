@@ -35,7 +35,7 @@
 
 
 - 🎓Systems Engineering student at the university of Magdalena - Colombia
-- :test_tube: Finishing my third semester of engineering and with great projection for the technology industry
+- :test_tube: Finishing my fifth semester of engineering and with great projection for the technology industry
 - :speech_balloon: Ask me about math, C++, Java or literally anything about my career!
 - :mailbox: You can reach me with the links below
 
