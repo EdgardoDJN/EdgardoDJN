@@ -2,8 +2,7 @@
 # 💫 About Me:
 🎓Systems Engineering student at the university of Magdalena - Colombia<br>🧪 Finishing my fifth semester of engineering and with great projection for the technology industry<br>💬 Ask me about math, C++, Java or literally anything about my career!
 
-<img align='right' src="https://camo.githubusercontent.com/28ef03dcdc6f3fdf1b2a4a5ff75bd26e6a03fee49355f2eac49afbf4885e1c38/68747470733a2f2f666c75747465722e67736b696e6e65722e636f6d2f666f6c696f2f6173736574732f696d616765732f6769745f6461736865732e706e673f" width="510">
-<img align='right' src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="510">
+
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white)
