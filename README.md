@@ -1,4 +1,4 @@
-![Header](https://github.com/EdgardoDJN/EdgardoDJN/blob/main/github-header-image%20(7).png)
+![Header](https://github.com/EdgardoDJN/EdgardoDJN/blob/main/github-header-image%20(3).png)
 # 💫 About Me:
 🎓Systems Engineering student at the university of Magdalena - Colombia<br>🧪 Finishing my fifth semester of engineering and with great projection for the technology industry<br>💬 Ask me about math, C++, Java or literally anything about my career!
 
