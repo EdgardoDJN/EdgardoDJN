@@ -1,6 +1,6 @@
 ![Header](https://github.com/EdgardoDJN/EdgardoDJN/blob/main/github-header-image%20(3).png)
 # 💫 About Me:
-🎓Systems Engineering - Colombia<br>🧪 <br>💬 Ask me about math, C++, Java or literally anything about my career!
+🎓Systems Engineering - Colombia<br>💬 Ask me about math, C++, Java or literally anything about my career!
 
 <img align='center' src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/multi-screen.gif" width="510">
 
